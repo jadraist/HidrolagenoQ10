@@ -1,0 +1,31 @@
+.navbar{
+  min-height: 65px;
+}
+.navbar-header{
+    .navbar-brand{
+    height: 70px;
+  }
+}
+
+.navbar-default{
+  background-color: $celeste;
+  border:0;
+  .navbar-toggle{
+    border-color:$blanco;
+    margin-top: 15px;
+    &:hover,&:focus{
+      background-color:$celeste;
+    }
+    .icon-bar{
+      background-color:$blanco;
+    }
+  }
+}
+.navbar-collapse{
+  .navbar-right{
+    li a{
+      padding-top: 25px;
+      color:$blanco;
+    }
+  }
+}

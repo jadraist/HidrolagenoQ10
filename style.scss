@@ -1,0 +1,21 @@
+@import "bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
+
+
+//colores
+$azul:#008AD0;
+$amarillo:#FABD00;
+$celeste:#00A1E1;
+$blanco:#ffffff;
+$gris-texto:#8E8E8D;
+
+//titulos
+$font-title:'dk_lemon_yellow_sunregular', sans-serif;
+
+//textos
+$font-text-normal:'Montserrat', sans-serif;
+
+//estilos por sección
+@import "scss/header";
+@import "scss/menu";
+@import "scss/main";
+@import "scss/footer";

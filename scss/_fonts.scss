@@ -1,0 +1,55 @@
+//font titulos
+
+@font-face {
+    font-family: 'dk_grumpy_tigerregular';
+    src: url('../fonts/dk_grumpy_tiger-webfont.eot');
+    src: url('../fonts/dk_grumpy_tiger-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/dk_grumpy_tiger-webfont.woff2') format('woff2'),
+         url('../fonts/dk_grumpy_tiger-webfont.woff') format('woff'),
+         url('../fonts/dk_grumpy_tiger-webfont.ttf') format('truetype'),
+         url('../fonts/dk_grumpy_tiger-webfont.svg#dk_grumpy_tigerregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'dk_lemon_yellow_sunregular';
+    src: url('../fonts/dk_lemon_yellow_sun-webfont.eot');
+    src: url('../fonts/dk_lemon_yellow_sun-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/dk_lemon_yellow_sun-webfont.woff2') format('woff2'),
+         url('../fonts/dk_lemon_yellow_sun-webfont.woff') format('woff'),
+         url('../fonts/dk_lemon_yellow_sun-webfont.ttf') format('truetype'),
+         url('../fonts/dk_lemon_yellow_sun-webfont.svg#dk_lemon_yellow_sunregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+//font textos
+
+@font-face {
+    font-family: 'webfontregular';
+    src: url('../fonts/avenirnextltpro-cn-webfont.eot');
+    src: url('../fonts/avenirnextltpro-cn-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/avenirnextltpro-cn-webfont.woff2') format('woff2'),
+         url('../fonts/avenirnextltpro-cn-webfont.woff') format('woff'),
+         url('../fonts/avenirnextltpro-cn-webfont.ttf') format('truetype'),
+         url('../fonts/avenirnextltpro-cn-webfont.svg#webfontregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'webfontbold';
+    src: url('../fonts/avenirltstd-medium-webfont.eot');
+    src: url('../fonts/avenirltstd-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/avenirltstd-medium-webfont.woff2') format('woff2'),
+         url('../fonts/avenirltstd-medium-webfont.woff') format('woff'),
+         url('../fonts/avenirltstd-medium-webfont.ttf') format('truetype'),
+         url('../fonts/avenirltstd-medium-webfont.svg#webfontbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
